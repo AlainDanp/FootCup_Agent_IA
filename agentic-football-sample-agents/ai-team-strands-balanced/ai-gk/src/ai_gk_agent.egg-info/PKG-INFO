@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: ai_gk_agent
+Version: 0.1.0
+Requires-Python: >=3.10
+Requires-Dist: strands-agents>=1.45.0
+Requires-Dist: bedrock-agentcore>=1.17.0
+Requires-Dist: aws-opentelemetry-distro>=0.18.0
